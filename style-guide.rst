@@ -34,7 +34,7 @@ Utilice 4 espacios por nivel de sangría.
 Tabulador o espacios
 ====================
 
-Los espacios son el método de indentación preferido.
+Los espacios son el método de sangría preferido.
 
 Se deben evitar la mezcla del tabulador y los espacios.
 
